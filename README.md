@@ -2,7 +2,7 @@
 ニコニコ生放送のコメントを取得
 
 ## simple demo
-```
+```JavaScript
 const live = require("./nicoLive")
 const cheerio = require("cheerio")
 
