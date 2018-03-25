@@ -1,5 +1,6 @@
 # nico-live
 ニコニコ生放送のコメントを取得
+※全部屋のコメント取得は未対応
 
 ## simple demo
 ```JavaScript
