@@ -15,10 +15,6 @@ live.login("your mail", "your password").then(session => {
       const comment = cheerio.load(data)("chat").text()
       console.log(comment)
     })
-  }).catch(error => {
-    console.log(error)
   })
-}).catch(error => {
-  console.log(error)
 })
 ```
